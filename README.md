@@ -48,6 +48,10 @@
 - Python 3.7+
 - Установленные библиотеки из requirements.txt
 
+## Установка зависимостей
+```bash
+pip install -r requirements.txt
+
 ## Использование
 1. Установите зависимости: `pip install -r requirements.txt`
 2. Запустите ноутбук из папки examples/
